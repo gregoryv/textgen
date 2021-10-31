@@ -4,5 +4,5 @@ Textgen is a utility for generating english text I wrote when working on the
 ## Quick start
 
     $ go install github.com/gregoryv/textgen
-	$ textgen -h
+    $ textgen -h
 
